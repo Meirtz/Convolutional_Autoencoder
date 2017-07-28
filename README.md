@@ -11,5 +11,9 @@ jupyter notebook Convolutional_Autoencoder.ipynb
 ```
 
 # Prerequisites
-tensorflow 1.0 or above
-jupyter
+**tensorflow** 1.0 or above
+
+**jupyter**
+
+# Acknowledgement
+This is an assignment of Udacity DLND(Deep Learning NanoDegree program).
